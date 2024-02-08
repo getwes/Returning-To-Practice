@@ -1,3 +1,15 @@
+
+pessoa = {
+    "nome": "programador python",
+    "idade": 27,
+    "peso": 70.2
+    
+}
+
+print( pessoa['nome'])
+print( pessoa['idade'])
+print( pessoa['peso'])
+
 # informção do jogador
 player = {
     "nome": "wesley",
